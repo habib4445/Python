@@ -1,6 +1,6 @@
 x = 5
-y= "John"
+y= "Sallary"
 
 
-print(type(x))
-print(type(y))
+print(x)
+print(y)
